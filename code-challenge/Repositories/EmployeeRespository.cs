@@ -29,7 +29,9 @@ namespace challenge.Repositories
 
         public Employee GetById(string id)
         {
-            return _employeeContext.Employees.SingleOrDefault(e => e.EmployeeId == id);
+            Employee target = _employeeContext.Employees.SingleOrDefault(e => e.EmployeeId == id);
+            LoadDirectReports(target);
+            return target;
         }
 
         public Task SaveAsync()
@@ -40,6 +42,21 @@ namespace challenge.Repositories
         public Employee Remove(Employee employee)
         {
             return _employeeContext.Remove(employee).Entity;
+        }
+
+        private void LoadDirectReports(Employee employee)
+        {
+            if(employee == null)
+                return;
+
+            _employeeContext.Entry(employee).Collection(e => e.DirectReports).Load();
+            if(employee.DirectReports != null)
+            {
+                foreach(Employee underling in employee.DirectReports)
+                {
+                    LoadDirectReports(underling);
+                }
+            }
         }
     }
 }
