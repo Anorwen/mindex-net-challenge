@@ -1,0 +1,16 @@
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.AssemblyReference.cache
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+D:\cante\Apocrypha\mindex\mindex-net-challenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
