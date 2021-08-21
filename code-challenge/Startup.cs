@@ -34,6 +34,7 @@ namespace code_challenge
             services.AddScoped<IEmployeeRepository,EmployeeRespository>();
             services.AddTransient<EmployeeDataSeeder>();
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IStructureService, StructureService>();
             services.AddMvc();
         }
 
